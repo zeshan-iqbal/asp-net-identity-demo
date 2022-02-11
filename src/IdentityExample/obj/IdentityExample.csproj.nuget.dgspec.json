@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Demos\\IdentityDemo\\src\\IdentityExample\\IdentityExample.csproj": {}
+    "D:\\work\\asp-net-identity-demo\\src\\IdentityExample\\IdentityExample.csproj": {}
   },
   "projects": {
-    "D:\\Demos\\IdentityDemo\\src\\IdentityExample\\IdentityExample.csproj": {
+    "D:\\work\\asp-net-identity-demo\\src\\IdentityExample\\IdentityExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Demos\\IdentityDemo\\src\\IdentityExample\\IdentityExample.csproj",
+        "projectUniqueName": "D:\\work\\asp-net-identity-demo\\src\\IdentityExample\\IdentityExample.csproj",
         "projectName": "IdentityExample",
-        "projectPath": "D:\\Demos\\IdentityDemo\\src\\IdentityExample\\IdentityExample.csproj",
-        "packagesPath": "C:\\Users\\zeeshan\\.nuget\\packages\\",
-        "outputPath": "D:\\Demos\\IdentityDemo\\src\\IdentityExample\\obj\\",
+        "projectPath": "D:\\work\\asp-net-identity-demo\\src\\IdentityExample\\IdentityExample.csproj",
+        "packagesPath": "C:\\Users\\link2\\.nuget\\packages\\",
+        "outputPath": "D:\\work\\asp-net-identity-demo\\src\\IdentityExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\zeeshan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\link2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

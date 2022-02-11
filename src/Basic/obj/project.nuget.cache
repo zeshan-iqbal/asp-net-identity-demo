@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Givz12XQJRaw8M0RR006U1M/CzpFbKgN4ZZR3gLQUIG5iuW+J2OtqODBDJ1JWl2mpfZzRL4r4iyl9cmPt+IP7w==",
+  "dgSpecHash": "QdmhWJqzwLpCfLugOb6IZJ4XWUoD7R1YHg4YlaM1cWNLFnBBMUvVyM3pGM0QBmT814lh6+JNJlyd75/8HUo5TA==",
   "success": true,
-  "projectFilePath": "D:\\Demos\\IdentityDemo\\src\\Basic\\Basic.csproj",
+  "projectFilePath": "D:\\work\\asp-net-identity-demo\\src\\Basic\\Basic.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
